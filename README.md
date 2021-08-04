@@ -9,7 +9,7 @@
 - ⚡ I love to play cricket and listening to music <br>
 
 - 🏢Available for Internships.
-- 📝Resume -> <a href="https://github.com/PawanSadhwani17/Pawan_github/blob/main/Pawan_resume.pdf"><img align="center" alt="Pawan Sadhwani" width="35px" src="Assets/resume.png" /></a><br>
+- 📝Resume -> <a href="https://github.com/PawanSadhwani17/Pawan_github/blob/main/Pawan_resume.pdf"></a><br>
 
 ### Connect with me:
 
@@ -18,8 +18,8 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<br />
-***Techs and tools I use :***
+<br/>
+###Technoogy and tools known to me:###
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
@@ -39,6 +39,11 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <hr>
+
+
+  <summary>:GitHub Stats</summary>
+  <img align="left" alt="Md Sohaib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PawanSadhwani17&show_icons=true&hide_border=true" />
+
 
 [twitter]: https://mobile.twitter.com/PawanSadhwani45
 [youtube]: https://youtu.be/j_Vh_SenPUE
