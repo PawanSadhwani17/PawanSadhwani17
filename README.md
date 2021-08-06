@@ -1,6 +1,6 @@
-### Hi there, I'm Pawan Sadhwani 👋
+### Hi there, I'm Pawan Sadhwani 👋 ###
 
-## I'm a Student, Developer, and Data Scinece Enthusiat !!
+## I'm a Student, Developer, and Data Scinece Enthusiat !! ##
 <img align="left" alt="GIF" src="https://i.pinimg.com/originals/60/02/ef/6002ef32f236ecb7c0d8744f374da976.gif" width="230px" />
 - 🔭 I am a student Pursuing BE-CSE from Chandigarh University<br>
 - 👀 I have a keen Interest in Data Science , ML and AI<br>
@@ -9,16 +9,16 @@
 - ⚡ I love to play cricket and listening to music <br>
 
 - 🏢Available for Internships.
-- 📝Resume -> <a href="https://github.com/PawanSadhwani17/Pawan_github/blob/main/Pawan_resume.pdf"></a><br>
+- 📝Resume -> <a href="https://www.canva.com/design/DAEkQPhprjk/xirxR_3QLjemRVvPBKiCXQ/view?utm_content=DAEkQPhprjk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"> My Resume</a><br>
 
-### Connect with me:
+### Connect with me: ###
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<br>
 
-<br/>
 ### Technoogy and tools known to me: ###
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -42,7 +42,7 @@
 
 
   <summary>:GitHub Stats</summary>
-  <img align="left" alt="Md Sohaib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PawanSadhwani17&show_icons=true&hide_border=true" />
+  <img align="left" alt="Pawan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PawanSadhwani17&show_icons=true&hide_border=true" />
 
 
 [twitter]: https://mobile.twitter.com/PawanSadhwani45
