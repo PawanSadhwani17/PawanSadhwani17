@@ -9,7 +9,7 @@
 - ⚡ I love to play cricket and listening to music <br>
 
 - 🏢Available for Internships.
-- 📝Resume -> <a href="https://www.canva.com/design/DAEkQPhprjk/share/preview?token=kBvOJwe5v71TDquLWO43aA&role=EDITOR&utm_content=DAEkQPhprjk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"> My Resume</a><br>
+- 📝Resume -> <a href="https://www.canva.com/design/DAEkQPhprjk/xirxR_3QLjemRVvPBKiCXQ/view?utm_content=DAEkQPhprjk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"> My Resume</a><br>
 
 ### Connect with me: ###
 
